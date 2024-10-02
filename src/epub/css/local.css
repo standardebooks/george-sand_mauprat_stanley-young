@@ -5,6 +5,7 @@
 /* Dedication */
 section[epub|type~="dedication"]{
 	text-align: center;
+    text-indent: 0em;
 }
 
 section[epub|type~="dedication"] > *{
@@ -16,9 +17,10 @@ section[epub|type~="dedication"] > *{
 section[epub|type~="dedication"] p + p,
 section[epub|type~="dedication"] footer{
 	margin-top: 1em;
+    text-indent: 0em;
 }
 
-section[epub|type~="dedication"] footer{
+[epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 	text-align: right;
 }

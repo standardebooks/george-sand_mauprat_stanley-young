@@ -35,14 +35,15 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2010118978</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A man recounts the story of how he was saved from a life of vice and infamy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Bernard Mauprat is the young scion of the infamous Mauprat family, known for its violent and cruel behavior. After the death of his mother, he goes to live in his grandfather’s estate of Roche-Mauprat, and is initiated into a life of violence and cruelty by his close relations.&lt;/p&gt;
+			&lt;p&gt;After losing his uncles in a confrontation, the young Mauprat gains the hospitality and protection of his great-uncle and cousin, who dedicate themselves to rescue him from the abyss of vice and sin that he was raised in.&lt;/p&gt;
+			&lt;p&gt;Set just before the French Revolution, the novel brings theme of inequality and the abuse of nobles in French society of the time, as well the questions of female agency and the redeeming power of education.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2194</dc:source>
 		<dc:source>https://archive.org/details/mauprat0000sand</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mauprat</meta>

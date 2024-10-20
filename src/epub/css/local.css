@@ -31,3 +31,11 @@ section[epub|type~="dedication"] p + p{
 body [xml|lang="la"]{
 	font-style: italic;
 }
+
+#dedication p[xml|lang="la"]{
+	font-variant: small-caps;
+}
+
+p[epub|type~="z3998:recipient"]{
+	font-variant: small-caps;
+}

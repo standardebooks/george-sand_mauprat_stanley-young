@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/george-sand/mauprat/stanley-young</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-10-21T16:36:22Z</dc:date>
+		<meta property="dcterms:modified">2024-10-21T16:36:22Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,15 +37,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A man recounts the story of how he was saved from a life of vice and infamy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Bernard Mauprat is the young scion of the infamous Mauprat family, known for its violent and cruel behavior. After the death of his mother, he goes to live in his grandfather’s estate of Roche-Mauprat, and is initiated into a life of violence and cruelty by his close relations.&lt;/p&gt;
-			&lt;p&gt;After losing his uncles in a confrontation, the young Mauprat gains the hospitality and protection of his great-uncle and cousin, who dedicate themselves to rescue him from the abyss of vice and sin that he was raised in.&lt;/p&gt;
-			&lt;p&gt;Set just before the French Revolution, the novel brings theme of inequality and the abuse of nobles in French society of the time, as well the questions of female agency and the redeeming power of education.&lt;/p&gt;
+			&lt;p&gt;Bernard Mauprat is the young scion of the infamous Mauprat family, famous for its violence and cruelty. After the death of his mother, he goes to live in his grandfather’s estate of Roche-Mauprat, and is initiated into the brutal family life by his close relations.&lt;/p&gt;
+			&lt;p&gt;After losing his uncles in a confrontation, the young Mauprat is taken under the wings of his great-uncle and female cousin, who dedicate themselves to rescuing him from the abyss of vice and sin that he was raised in.&lt;/p&gt;
+			&lt;p&gt;Set just before the French Revolution, the novel focuses on themes of inequality, female agency, and the redeeming power of education.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2194</dc:source>
 		<dc:source>https://archive.org/details/mauprat0000sand</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">124364</meta>
+		<meta property="se:reading-ease.flesch">66.27</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mauprat</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-sand_mauprat_stanley-young</meta>
 		<dc:creator id="author">George Sand</dc:creator>
@@ -82,6 +82,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>

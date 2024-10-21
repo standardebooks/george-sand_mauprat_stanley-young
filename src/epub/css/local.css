@@ -17,19 +17,18 @@ section[epub|type~="prologue"]{
 
 /* Dedication */
 section[epub|type~="dedication"]{
+	margin-top: 20vh;
 	text-align: center;
-	text-indent: 0;
 }
 
 section[epub|type~="dedication"] > *{
-	margin: auto;
-	margin-top: 1em;
+	margin-left: auto;
+	margin-right: auto;
 	max-width: 80%;
 }
 
-section[epub|type~="dedication"] p + p{
-	margin-top: 1em;
-	text-indent: 0;
+section[epub|type~="dedication"] > p{
+	text-align: initial;
 }
 
 body [xml|lang="la"]{

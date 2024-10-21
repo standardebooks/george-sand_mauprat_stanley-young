@@ -11,6 +11,10 @@ footer{
 	font-variant: small-caps;
 }
 
+section[epub|type~="prologue"]{
+	margin-top: 20vh;
+}
+
 /* Dedication */
 section[epub|type~="dedication"]{
 	text-align: center;

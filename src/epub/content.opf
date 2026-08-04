@@ -37,7 +37,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2010118978</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A man recounts the story of how he was saved from a life of vice and infamy.</dc:abstract>
+		<meta property="schema:abstract">A man recounts the story of how he was saved from a life of vice and infamy.</meta>
 		<dc:description>
 			&lt;p&gt;Bernard Mauprat is the young scion of the infamous Mauprat family, famous for its violence and cruelty. After the death of his mother, he goes to live in his grandfather’s estate of Roche-Mauprat, and is initiated into the brutal family life by his close relations.&lt;/p&gt;
 			&lt;p&gt;After losing his uncles in a confrontation, the young Mauprat is taken under the wings of his great-uncle and female cousin, who dedicate themselves to rescuing him from the abyss of vice and sin that he was raised in.&lt;/p&gt;

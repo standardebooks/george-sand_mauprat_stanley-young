@@ -72,6 +72,7 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Dagny</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Dagny</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">John Bickers</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Bickers, John</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>

@@ -67,7 +67,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Élisabeth Louise Vigée Le Brun</dc:contributor>
 		<meta property="file-as" refines="#artist">Le Brun, Élisabeth Louise Virgée</meta>
-		<link href="https://en.wikipedia.org/wiki/Élisabeth_Vigée_Le_Brun" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/%C3%89lisabeth_Vig%C3%A9e_Le_Brun" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n82110153.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Dagny</dc:contributor>
@@ -78,6 +78,8 @@
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
+		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-3" rel="schema:sameAs"/>
+		<link href="https://www.gutenberg.net.au/widger/home.html" refines="#transcriber-3" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Hendrik Kaiber</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Kaiber, Hendrik</meta>
